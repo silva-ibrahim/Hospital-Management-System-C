@@ -28,6 +28,7 @@ The application allows users to manage hospital appointments, store patient info
 - Functions
 - Arrays
 - File Handling
+- Linux(WSL) 
 
 ## Project Structure
 
